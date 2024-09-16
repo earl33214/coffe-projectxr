@@ -1,0 +1,165 @@
+.group3-container {
+  width: 100%;
+  display:flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color:#6B4A34;
+}
+.group3-group3 {
+  width: 1068px;
+  height: 768px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group3-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 1068px;
+  height: 768px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(107, 74, 52, 1);
+}
+.group3-freshcoffeesteamswoodentablecloseupgenerativeai11 {
+  top: 210px;
+  left: 534px;
+  width: 473px;
+  height: 303px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.group3-group4 {
+  top: 116px;
+  left: 128px;
+  width: 812px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group3-blackand-white-modern-vintage-coffee-shop-logo11 {
+  top: 1px;
+  left: 0px;
+  width: 198px;
+  height: 37px;
+  position: absolute;
+}
+.group3-text10 {
+  left: 462px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group3-text12 {
+  left: 581px;
+  color: rgba(255, 255, 255, 1);
+  width: 129px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group3-text14 {
+  left: 703px;
+  color: rgba(255, 255, 255, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group3-text18 {
+  top: 223px;
+  left: 128px;
+  color: rgba(32, 28, 24, 1);
+  width: 417px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group3-text20 {
+  top: 404px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group3-group1 {
+  top: 563px;
+  left: 131px;
+  width: 135px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group3-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 135px;
+  height: 48px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.group3-text24 {
+  top: 10.666665077209473px;
+  left: 15.187484741210938px;
+  color: rgba(58, 46, 46, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
